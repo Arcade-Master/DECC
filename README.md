@@ -1,4 +1,6 @@
 ## DECC
+#### Enhancing Large Language Model with Decomposed Reasoning for Emotion Cause Pair Extraction
+https://arxiv.org/abs/2401.17716
 
 Before start, you should make sure necessary configurations are prepared in
 `./code/config.py`
